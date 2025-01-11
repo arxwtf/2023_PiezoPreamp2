@@ -1,4 +1,6 @@
-# Piezo Preamp with Baxandall Tone Control and Battery Indicator
+# Piezo Preamp v2 with Baxandall Tone Control and Battery Indicator
+
+[Newer version (v3) available here](https://github.com/arxwtf/2024_PiezoPreamp3/).
 
 A simple preamp to be used for e.g. guitar piezo (contact) microphones. 
 
