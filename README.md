@@ -2,6 +2,8 @@
 
 [Newer version (v3) available here](https://github.com/arxwtf/2024_PiezoPreamp3/).
 
+[Detailed information / blog here.](https://arx.wtf/blog/3-piezo-preamp)
+
 A simple preamp to be used for e.g. guitar piezo (contact) microphones. 
 
 Created in KiCAD v7 and LTSpice.
